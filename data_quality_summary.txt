@@ -1,0 +1,9 @@
+Data Quality Summary
+
+A total of 40 unique AMFI scheme codes were found in the fund_master dataset and all 40 codes were successfully matched in the nav_history dataset.
+
+No missing AMFI codes were identified. The dataset appears consistent and suitable for further analysis.
+
+Fund categories include Equity and Debt schemes. Risk categories range from Low to Very High.
+
+No major data quality issues were observed during the initial data ingestion and validation process.
